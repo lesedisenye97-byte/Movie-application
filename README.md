@@ -1,6 +1,6 @@
 # Movie Application 
 
-A Python-based movie application built as a class project.  
+A Python-based movie application .  
 This project demonstrates object-oriented programming concepts and file handling in Python.
 
 ## Features
